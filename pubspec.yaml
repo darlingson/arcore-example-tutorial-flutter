@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts:
+  arcore_flutter_plugin:
 
 dev_dependencies:
   flutter_test:
